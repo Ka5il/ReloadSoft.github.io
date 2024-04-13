@@ -1,0 +1,13 @@
+img {
+    max-width: 100%;
+    }
+
+body {
+        background: rgb(241, 241, 241);
+        color: rgb(27, 27, 27);
+        font-family: Comic Sans MS;
+      }
+
+#header{
+        background: url(img/logo.png) no-repeat;
+     }
